@@ -1,0 +1,18 @@
+.jumbotron {
+	background-color: #1BBC9B;
+	color: white;
+}
+
+.panel-h3 {
+	text-align: center;
+}
+
+.panel-default > .panel-heading-custom {
+	background-color: #1BBC9B;
+	color: white;
+}
+
+#add-train {
+	background-color: #1BBC9B;
+	color: white;
+}
